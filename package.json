@@ -26,6 +26,7 @@
     "@ng-bootstrap/ng-bootstrap": "^10.0.0",
     "@popperjs/core": "^2.9.3",
     "@types/chart.js": "^2.9.34",
+    "all": "^0.0.0",
     "angular-bootstrap-md": "^12.0.0",
     "animate.css": "^4.1.1",
     "aws-amplify": "^4.2.5",
